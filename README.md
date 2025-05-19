@@ -8,8 +8,26 @@ Learning and building a career in data, cybersecurity, and programming.
 Using GitHub to support my learning in data, cybersecurity, and programming.
 Focused on growth and hands-on practice in tech.
 
+## Strenghts
+- Attention to detail – essential for identifying vulnerabilities and ensuring information security.
+- Strong written and verbal communication – helpful for documenting processes and collaborating across teams.
+- Committed to continuous learning in cybersecurity fundamentals, safe practices, and risk analysis.
+
+## Values
+- Protecting people and data – I’m driven by the idea of using cybersecurity to safeguard individuals' privacy and digital presence.
+- Ethical responsibility – I value integrity and the ethical use of technology to ensure safe and fair access to digital environments.
+
+## Professional Statement
+- What most interests me about the field of cybersecurity?
+I’m most interested in how cybersecurity helps prevent digital threats and protects both individuals and organizations. The combination of problem-solving, continuous learning, and real-world impact is what draws me to the field.
+
+- Who is the audience for my professional statement?
+Recruiters and companies looking for entry-level professionals with a foundational understanding of cybersecurity, a strong learning mindset, and a multidisciplinary background in design and business.
+
+- In what ways can my strengths, values, and interest in cybersecurity support the security goals of various organizations?
+My strengths in organization, communication, and data analysis help me understand risks and respond to them thoughtfully. My commitment to ethical responsibility aligns with the goals of organizations that prioritize digital trust and user protection.
+
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
