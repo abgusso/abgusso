@@ -27,6 +27,9 @@ Recruiters and companies looking for entry-level professionals with a foundation
 - In what ways can my strengths, values, and interest in cybersecurity support the security goals of various organizations?
 My strengths in organization, communication, and data analysis help me understand risks and respond to them thoughtfully. My commitment to ethical responsibility aligns with the goals of organizations that prioritize digital trust and user protection.
 
+I bring strong analytical thinking, communication, and a commitment to ethical data protection. 
+I'm motivated to help organizations reduce risks and build secure, trustworthy digital environments through continuous learning in cybersecurity.
+
 ## Skills
 
 | Skill                                         | Associated Project         |
